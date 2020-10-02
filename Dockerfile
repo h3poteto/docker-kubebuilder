@@ -1,6 +1,6 @@
 FROM ghcr.io/h3poteto/golang:1.15.2
 
-ENV KUBEBUILDER_VERSION 2.3.0
+ENV KUBEBUILDER_VERSION 2.3.1
 
 USER root
 
